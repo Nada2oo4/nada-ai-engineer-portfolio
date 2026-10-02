@@ -1,0 +1,2 @@
+import { Reveal } from "./Reveal";
+export function SectionHeading({eyebrow,title,description}:{eyebrow:string;title:string;description?:string}){return <Reveal><div className="mb-12 max-w-3xl"><p className="mb-4 text-[11px] font-bold uppercase tracking-[.28em] text-cyan-300">{eyebrow}</p><h2 className="text-4xl font-semibold tracking-[-.04em] md:text-6xl">{title}</h2>{description&&<p className="mt-5 max-w-2xl text-base leading-7 text-zinc-400">{description}</p>}</div></Reveal>}
