@@ -41,7 +41,7 @@ export default function Home() {
                 />
               </a>
               <a
-                href="/Nada-Ashraf-CV.pdf"
+                href="/CV/Nada-Ashraf-CV.pdf"
                 download
                 className="rounded-full border border-white/10 px-5 py-3 text-sm font-semibold text-white transition hover:border-cyan-300/40 hover:text-cyan-200"
               >
@@ -237,7 +237,7 @@ export default function Home() {
             <a className="rounded-full border border-white/10 px-5 py-3 text-sm hover:border-cyan-300/40" href="https://github.com/Nada2oo4" target="_blank" rel="noreferrer">
               <Github className="mr-2 inline" size={15} />GitHub
             </a>
-            <a className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black transition hover:bg-cyan-100" href="/Nada-Ashraf-CV.pdf" download>
+            <a className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black transition hover:bg-cyan-100" href="/CV/Nada-Ashraf-CV.pdf" download>
               <Download className="mr-2 inline" size={15} />Download CV
             </a>
           </div>
