@@ -32,7 +32,7 @@ export function Navbar() {
             Ask Nada&apos;s AI
           </a>
           <a
-            href="/Nada-Ashraf-CV.pdf"
+            href="/CV/Nada-Ashraf-CV.pdf"
             download
             className="hidden rounded-full border border-white/10 px-4 py-2 text-xs font-semibold transition hover:border-cyan-300/40 hover:text-cyan-200 sm:block"
           >
@@ -82,7 +82,7 @@ export function Navbar() {
             Ask Nada&apos;s AI
           </a>
           <a
-            href="/Nada-Ashraf-CV.pdf"
+            href="/CV/Nada-Ashraf-CV.pdf"
             download
             className="mt-3 inline-flex rounded-full border border-white/10 px-4 py-2.5 text-xs font-semibold text-white"
           >
